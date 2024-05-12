@@ -1,4 +1,13 @@
-# Turborepo starter
+# Vercel Clone
+
+# TechStack 
+## Turborepo
+## Nodejs , Express , React 
+## Typescript
+## AWS Services (ECR ,ECS ,S3)
+## Kafka , Clickhouse , Postgress 
+## Prisma as ORM 
+
 
 This is an official starter Turborepo.
 
